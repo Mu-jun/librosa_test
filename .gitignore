@@ -1,6 +1,7 @@
-output.wav
+/output
 cqt.npz
 /model
+너를 보내고 - 윤도현밴드.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
